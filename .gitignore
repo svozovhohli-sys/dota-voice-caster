@@ -1,0 +1,9 @@
+.venv/
+venv/
+models/
+__pycache__/
+*.pyc
+*.log
+dist/
+voice_caster.log
+commands.json
